@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "497229911346",
+    "firebase_url": "https://fir-test-d6334.firebaseio.com",
+    "project_id": "fir-test-d6334",
+    "storage_bucket": "fir-test-d6334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497229911346:android:23ef4c878762d42f",
+        "android_client_info": {
+          "package_name": "com.example.dani.biketracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497229911346-e76of50hb85qirhrpd2o0uhkrkuu2e4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dani.biketracker",
+            "certificate_hash": "f2751f6de46022944b2b3a42d918353d0e69b49b"
+          }
+        },
+        {
+          "client_id": "497229911346-kfim64hpv9b0k3b0p3enq3bc7tbh7pbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyTjVhBCx7XhSy6_a4Sfv2H5JTz_WtfKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497229911346-kfim64hpv9b0k3b0p3enq3bc7tbh7pbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497229911346:android:855c05dab7c39f8d",
+        "android_client_info": {
+          "package_name": "com.example.firebasetesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497229911346-kfim64hpv9b0k3b0p3enq3bc7tbh7pbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyTjVhBCx7XhSy6_a4Sfv2H5JTz_WtfKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497229911346-kfim64hpv9b0k3b0p3enq3bc7tbh7pbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497229911346:android:7720002165673ac8e9f32b",
+        "android_client_info": {
+          "package_name": "com.example.fusedlocationprovidertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497229911346-kfim64hpv9b0k3b0p3enq3bc7tbh7pbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyTjVhBCx7XhSy6_a4Sfv2H5JTz_WtfKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497229911346-kfim64hpv9b0k3b0p3enq3bc7tbh7pbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
